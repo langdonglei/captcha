@@ -1,0 +1,10 @@
+{
+    "name": "langdonglei/captcha",
+    "authors": [
+        {
+            "name": "langdonglei",
+            "email": "langdonglei@sina.com"
+        }
+    ],
+    "require": {}
+}
